@@ -1,0 +1,25 @@
+<script>
+function searchScript(event) {
+    console.log("SEARCH SCRIPT");
+    var searchValue = document.getElementById('lunrsearch').value;    
+    lunr_search(document.getElementById('lunrsearch').value, event);
+}
+</script>
+<form 
+    class="d-flex"
+    role="search" 
+    onSubmit="searchScript(event)">
+    <input id="lunrsearch" 
+        type="search" 
+        class="form-control me-2" 
+        name="value" 
+        maxlength="255" 
+        value="" 
+        placeholder="Search" />
+    <button class="btn btn-outline-success"
+        data-bs-toggle="mo dal" 
+        data-bs-target="#sea rchModal" 
+        type="submit">
+            Search
+    </button>
+</form>
