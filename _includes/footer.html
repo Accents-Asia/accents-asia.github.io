@@ -1,3 +1,23 @@
-<footer class="container pt-5 my-5 text-muted border-top">
-    Created by the Hepaestus Consulting &middot; &copy; 2024
+<footer class="container pt-5 my-5 border-top">
+    <div class="row">
+        <div class="col-md">
+          <ul>Navigation
+          {% for item in site_pages %}    
+            {% if item.navitem == true %}
+              <li class="nav-item"><a href="{{ item.url }}" class="nav-link">{{ item.title }}</a></li>
+            {% endif %}        
+          {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md">
+            {{ site.description }}
+        </div>
+        <div class="col-md">
+          <ul style="list-style-type: none;">
+            <li>Accents Asia: ISSN 1948-3503</li>
+            <li>Copyright &copy; 2024 Accents Asia</li>
+            <li>Jekyll Site Created by <a href="https://hepaestus.com" target="_blank">Hepaestus Consulting</a></li>
+          </ul>
+        </div>
+    </div>    
 </footer>

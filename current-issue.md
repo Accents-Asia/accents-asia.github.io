@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: issue
 title: Current Issue
+issue: Volume 17 Issue 2, October 2023
 permalink: /current-issue
 navitem: true
-nav-order: 3
+dropdown: false
+nav-order: 1
 ---
-
-# Volume 17 Issue 2, October 2023
 
 **Yokohama JALT My Share June 2023 \[Special Issue\]**
 

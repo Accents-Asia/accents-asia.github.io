@@ -2,17 +2,14 @@
 
 {% include header.html %}
 
-<main class="container">
-    <h1 class="mt-3">{{ page.title}}</h1>
+<main class="container">    
     <div class="row">
-        <div class="col">
-            {% include search_results_modal.html %}
-            <div id="lunrsearchresults">
-            
-            </div>
+        <div class="col pv-4 mv-4">                        
             {{ content }}
         </div>
     </div>
-  </main>
+</main>
+
+{% include search_results_modal.html %}
 
 {% include footer.html %}

@@ -2,8 +2,9 @@
 layout: default
 title: Contact
 permalink: /contact
-navitem: true
-nav-order: 2
+navitem: false
+dropdown: true
+nav-order: 1
 ---
   
 **General Inquiries: info@accentsasia.org**  

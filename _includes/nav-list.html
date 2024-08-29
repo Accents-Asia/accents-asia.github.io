@@ -1,18 +1,19 @@
     <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-        {% for item in site.pages | sort item.nav-order %}    
+      {% assign site_pages = site.pages | sort: 'nav-order' %}
+      {% for item in site_pages %}    
           {% if item.navitem == true %}
             <li class="nav-item"><a href="{{ item.url }}" class="nav-link px-2 text-white">{{ item.title }}</a></li>
           {% endif %}        
-        {% endfor %}
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">See more</a>
-            <ul class="dropdown-menu">
-                {% for item in site.pages %}    
-                  {% if item.dropdown == true %}
-                    <li><a class="dropdown-item" href="{{ item.url }}">{{ item.title }}</a></li>
-                  {% endif %}                
-                {% endfor %}
-            </ul>
-          </li>
+      {% endfor %}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">See more</a>
+        <ul class="dropdown-menu">
+          {% for item in site.pages %}    
+            {% if item.dropdown == true %}
+              <li><a class="dropdown-item" href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endif %}                
+          {% endfor %}
+        </ul>
+      </li>
     </ul>    
     

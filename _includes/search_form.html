@@ -1,10 +1,15 @@
 <script>
-function searchScript(event) {
-    console.log("SEARCH SCRIPT");
-    var searchValue = document.getElementById('lunrsearch').value;    
-    lunr_search(document.getElementById('lunrsearch').value, event);
-}
+    function searchScript(event) {
+        event.preventDefault();
+        console.log("SEARCH SCRIPT");        
+        var searchValue = document.getElementById('lunrsearch').value;    
+        const myModalAlternative = new bootstrap.Modal('#searchModal', { keyboard: true });
+        console.log("MODAL", myModalAlternative);        
+        lunr_search(document.getElementById('lunrsearch').value, event);
+        myModalAlternative.show();
+    }
 </script>
+
 <form 
     class="d-flex"
     role="search" 
@@ -17,9 +22,9 @@ function searchScript(event) {
         value="" 
         placeholder="Search" />
     <button class="btn btn-outline-success"
-        data-bs-toggle="mo dal" 
-        data-bs-target="#sea rchModal" 
-        type="submit">
+        data-bs-target="#searchModal"
+        data-bs-toggle="modal"
+        type="button">
             Search
     </button>
 </form>

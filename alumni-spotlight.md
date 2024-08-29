@@ -2,8 +2,9 @@
 layout: default
 title: Alumni Spotlight
 permalink: /alumni-spotlight
-navitem: true
-nav-order: 5
+navitem: false
+dropdown: true
+nav-order: 1
 ---
 
 **2019**

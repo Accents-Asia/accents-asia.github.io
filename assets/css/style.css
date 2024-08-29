@@ -1,3 +1,12 @@
 
 
+#header-image {  
+  background-image: url('/assets/images/emotionheader.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
+li.lunrsearchresult {
+  margin-bottom: 1.5em;
+}
