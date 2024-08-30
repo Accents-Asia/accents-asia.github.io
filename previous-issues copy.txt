@@ -1,12 +1,3 @@
----
-layout: default
-title:
-permalink: 
-navitem: false
-dropdown: false
-nav-order: 
----
-
 # Volume 17 Issue 1, May 2023
 
 **Yokohama JALT My Share 2022 \[Special Issue\]**
@@ -26,7 +17,7 @@ Catherine Sudo, Temple University, Japan
 [View Special Issue](http://www.issues.accentsasia.org/issues/17-1/Selman_YoJALT_MyShare_2022)
 
 **ABSTRACT**  
-Every year, the Yokohama Chapter of the Japan Association for Language Teaching holds My Tech Share and My Share events in June and December respectively. In these workshops, presenters explain and demonstrate practical ideas for language teaching. This year’s Special Issue consists of three papers in which presenters expand on their ideas and give further details of the theoretical basis for their work.
+Every year</div>, the Yokohama Chapter of the Japan Association for Language Teaching holds My Tech Share and My Share events in June and December respectively. In these workshops, presenters explain and demonstrate practical ideas for language teaching. This year’s Special Issue consists of three papers in which presenters expand on their ideas and give further details of the theoretical basis for their work.
 
 # Volume 16 Issue 2, February 2023
 
@@ -36,7 +27,7 @@ Dan Ferreira, Seikei University, and John Peloghitis, International Christian Un
 
 [View Article](http://www.issues.accentsasia.org/issues/16-2/Ferreira_Peloghitis.pdf)
 
-**ABSTRACT**
+**ABSTRACT</div>**
 
 Since the onset of the COVID-19 pandemic in 2019, a lack of decisive leadership from Japan’s Ministry of Education, Culture, Sports, Science, and Technology (MEXT) resulted in each Japanese university implementing ad-hoc emergency measures for teaching. Although the majority of universities started teaching online three years later (in 2022), university teachers are expected to teach in a variety of contexts — online, face-to-face, or a hybrid of the two. To date, there is scant literature reporting on the ongoing tension between teachers who want to exert agency over the use of instructional and communication tools (ICT) under such circumstances and university policy on the sanctioned use of digital tools during this ongoing crisis. Adopting a duoethnographic approach, this study aims to elucidate teacher agency of digital tools for teaching English as a foreign language (EFL) in Japanese higher education during the COVID-19 pandemic in Japan. In duoethnography, new knowledge is discoverable from the individual lived experience, and the study findings offer societal implications to enhance the meaning of the phenomenon or inform educational leadership with further insights regarding teaching English as a foreign language in Japanese tertiary education. The findings of this study show that the insights provided by the duoethnographic method not only provide a cathartic salve by which teachers can constructively overcome negative teaching circumstances on an individual level but also warrants further research to explore teachers’ similar experiences in other teaching contexts on a global scale. 
 

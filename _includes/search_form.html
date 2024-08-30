@@ -3,7 +3,7 @@
         event.preventDefault();
         console.log("SEARCH SCRIPT");        
         var searchValue = document.getElementById('lunrsearch').value;    
-        const myModalAlternative = new bootstrap.Modal('#searchModal', { keyboard: true });
+        const myModalAlternative = new bootstrap.Modal('#searchModal1', {});
         console.log("MODAL", myModalAlternative);        
         lunr_search(document.getElementById('lunrsearch').value, event);
         myModalAlternative.show();
@@ -22,9 +22,9 @@
         value="" 
         placeholder="Search" />
     <button class="btn btn-outline-success"
-        data-bs-target="#searchModal"
-        data-bs-toggle="modal"
-        type="button">
+        data-bs-toggle="mo dal"
+        data-bs-target="#se archModal1"
+        type="submit">
             Search
     </button>
 </form>
