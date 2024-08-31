@@ -1,8 +1,8 @@
 function lunr_search(term, e) {
     e.preventDefault();
-    console.log("Searching for: " + term);
-    console.log("Event: " + e);
-    console.log("Event target: " + e.target);
+    // console.log("Searching for: " + term);
+    // console.log("Event: " + e);
+    // console.log("Event target: " + e.target);
     // window.location.href = '/search_result.html?value=' + encodeURIComponent(term);    
     document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
     if (term) {    

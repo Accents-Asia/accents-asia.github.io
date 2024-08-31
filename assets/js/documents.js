@@ -25,7 +25,7 @@ var documents = [{% for page in site.pages %}{% if page.exclude_search or page.u
   "body": "{{ page.date | date: ' %Y/%m/%d' }} - {{ page.content | markdownify | strip_html | strip_newlines | replace: '`', ' ' | replace: double_quote, ' ' | normalize_whitespace |  encode_once }}"{% assign counter = counter | plus: 1 %}
 } {% if forloop.last %} {% else %}, {% endif %} {% endfor %}];
 
-console.log("documents: ", documents);
+//console.log("documents: ", documents);
 
 var idx = lunr(function () {
   this.ref('id')
