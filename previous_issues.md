@@ -21,9 +21,9 @@ nav-order: 2
           </a>
         </h3>
         <ul>        
-        {% for title in post.title %}
+        {% for article in post.articles %}
           <li>
-            {{ title }}
+            {{ article.title }}
           </li>
         {% endfor %}        
         </ul>
