@@ -13,10 +13,14 @@ layout: blog
         {% elsif article.book %}
             <p><strong>Book:</strong></p>
             <p>{{ article.book }}</p>
+        {% else %}
+            <!-- nothing -->
         {% endif %}
-        <p><a href="{{ article.url }}">View Article</a></p>    
-    {% endfor %} 
 
+        {% if article.url %}
+            <p><a href="{{ article.url }}">View Article</a></p>    
+        {% endif %}        
+    {% endfor %}
 {% endif %}
 
 {{ content }}
