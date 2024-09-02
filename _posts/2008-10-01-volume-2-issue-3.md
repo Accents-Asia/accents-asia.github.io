@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: Volume 2 Issue 3, October 2008
-artcles: 
+articles: 
   - title: "An Innovative Approach to Developing Learner Potential and Autonomy: Moving from Narrow to Broad Perspectives"
     author: Atsuko Kikuchi
     url: http://www.issues.accentsasia.org/issues//2-3/kikuchi.pdf
