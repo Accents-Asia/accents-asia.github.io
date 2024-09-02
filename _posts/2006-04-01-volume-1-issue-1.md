@@ -19,5 +19,5 @@ articles:
 
 date: 2006-04-01
 categories: [Editorial]
-tag: [TESOL, Global Issues, Classroom Anxiety]
+tags: [TESOL, global issues, high school, classroom anxiety, oral communication, senior high school]
 ---

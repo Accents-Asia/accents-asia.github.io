@@ -19,5 +19,5 @@ articles:
 
 date: 2012-10-01
 categories: [Research Article]
-author: [Jennie Roloff Rothman, Guy Smith, Matthew Klaus]
+tags: [motivation, ALT, JTE, attribution theory, self-esteem, computer-mediated communication, email, communicative competence]
 ---

@@ -43,5 +43,5 @@ atricles:
 
 date: 2012-04-01
 categories: [Research Article]
-author: [Jonathan Brown, Matthew P. Wallace, Reiko S. Takeda, Tomoko Kurita, Asako Takaesu, Miyoko Okazaki, Kazuko Shiota, Makiko Asaba]
+tags: [English composition, listening, teaching philosophy, second language listening comprehension, EFL journal writing, SLA research, cooperative output-focused activities, shadowing, academic writing, grammar]
 ---

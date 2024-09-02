@@ -24,5 +24,5 @@ articles:
 
 date: 2011-04-01
 categories: [Research Article]
-author: [Makoto Sakai, Gota Hayashi, Shawn Beasom, Guy Smith]
+tags: [newspaper, multimodal, language attrition, phonological competence, oral proficiency interviews, student motivation]
 ---

@@ -35,4 +35,5 @@ articles:
 date: 2013-04-01
 categories: [Research Article]
 author: [Abigail Odakura, Phillip A. Towndrow, Reiko Takeda, Mikiko Sudo, Fumiko Sato, Sachiko Maruoka]
+tags: [children's EFL classroom, information technology, teacher professional development, language learner identities, collaborative pedagogy, vocabulary acquisition, extensive reading, learner autonomy, East Asian students, EFL classrooms]
 ---

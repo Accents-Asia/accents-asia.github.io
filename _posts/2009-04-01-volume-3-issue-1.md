@@ -14,4 +14,5 @@ articles:
 date: 2009-04-01
 categories: [Research Article]
 author: [Stephen Russell, Michael Kubo]
+tags: [learner expectations, satisfaction, university, intensive English language program, pair taping, college students, Japan, confidence, fluency]
 ---

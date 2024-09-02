@@ -27,5 +27,5 @@ articles:
 
 date: 2009-10-01
 categories: [Research Article]
-author: [Jennifer Yphantides, Yaoko Matsuoka]
+tags: [Japanese, EFL classroom, listening comprehension, TOEFL, conversation analysis, adjacency pairs, conversational implicature, academic writing, NorthStar, language and politics]
 ---

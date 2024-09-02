@@ -49,4 +49,5 @@ articles:
 
 date: 2016-04-01
 categories: [Research Article]
+tags: [pedagogical trinity, EFL environment, L2 culture, student-teacher interaction, EFL literacy, team teaching, L2 interaction, academic vocabulary, metalanguage, communicative language teaching]
 ---

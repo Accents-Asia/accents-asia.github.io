@@ -29,5 +29,5 @@ articles:
 
 date: 2015-04-01
 categories: [Research Article]
-author: [Min Lun Yeh, Akiko Chiba, Keith M. Graham, Takaaki Hiratsuka, Anna Belobrovy]
+tags: [authentic materials, e-learning platform, NNESTs, L2 pragmatics, journaling, extensive reading, team-teaching practices, discourse analysis, second language pedagogy, preschool language acquisition]
 ---

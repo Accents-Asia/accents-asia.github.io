@@ -48,5 +48,5 @@ articles:
 
 date: 2015-07-01
 categories: [Research Article]
-author: [Selinda England, Matthew Keighley, Brett Milliner, Michelangelo Magasic, Mary Nobuoka, David Ockert, Malc Prentice, Roy Randy Y. Briones]
+tags: [Flipped Learning, digital writing, smartphone apps, streaming video, pronunciation pairs, tablet computer, quick-types, collocations, constraints, corpora]
 ---

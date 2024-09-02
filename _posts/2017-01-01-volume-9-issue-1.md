@@ -39,5 +39,5 @@ articles:
 
 date: 2017-01-01
 categories: [Research Article]
-author: [Dan Ferreira, Daniel Hooper, Yustinus Calvin Gai Mali, Paul B. Nadasdy, Jacob T. Reed, Min Lun Yeh, Tien DANG]
+tags: [professional development, vocabulary study, effort attributions, empathy, interaction, SLA, small-sized class, suprasegmental errors, pronunciation instruction]
 ---
