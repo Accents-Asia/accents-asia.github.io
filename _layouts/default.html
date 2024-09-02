@@ -2,12 +2,22 @@
 
 {% include header.html %}
 
-<main class="container">    
+<main class="container">  
+    
+    {% if page.payout == 'post' %}
+        <div class="row">
+            <div class="col">
+                <h2>{{ page.title }}</h2>
+            </div>
+        </div>
+    {% endif %}
+
     <div class="row">
         <div class="col pv-4 mv-4">                                  
             {{ content }}
-        </div>
+        </div>        
     </div>
+
 </main>
 
 {% include search_results_modal.html %}

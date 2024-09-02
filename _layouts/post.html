@@ -3,5 +3,20 @@ layout: blog
 ---
 <h2>{{ page.issue }}</h2>
 
+{% if page.articles %}
+    {% for article in page.articles %}    
+        <h5>{{ article.title }}</h5>
+        <p>{{ article.author }}</p>
+        {% if article.abstract %}
+            <p><strong>Abstract:</strong></p>
+            <p>{{ article.abstract }}</p>
+        {% elsif article.book %}
+            <p><strong>Book:</strong></p>
+            <p>{{ article.book }}</p>
+        {% endif %}
+        <p><a href="{{ article.url }}">View Article</a></p>    
+    {% endfor %} 
+
+{% endif %}
 
 {{ content }}
