@@ -26,9 +26,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b-%d-%Y"
 show_excerpts: true
-
-
 github_username: accentsasia
+
+# Tags
+collections:
+  posts_tags:
+    permalink: /tags/:name/
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+      type: posts_tags
+    values:
+      permalink: "/tags/:name/"
+      layout: tags
 
 # Build settings
 markdown: kramdown
@@ -40,6 +52,7 @@ google-tag-manager: G-SQ8RGSNX9T
 
 include: 
   - assets/js/document.js
+  - _site_tags_missing.txt
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -53,5 +66,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - "*.doc"
-  - "*.txt"
+  - "previous-issues-copy.txt"
+  - _posts_tags.txt
   - app/
