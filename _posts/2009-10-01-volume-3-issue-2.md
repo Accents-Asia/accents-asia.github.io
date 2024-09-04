@@ -27,5 +27,5 @@ articles:
 
 date: 2009-10-01
 categories: [Research Article]
-tags: [Japanese, EFL classroom, listening comprehension, TOEFL, conversation analysis, adjacency pairs, conversational implicature, academic writing, NorthStar, language and politics]
+tags: [Japanese, EFL, listening comprehension, TOEFL, conversation analysis, adjacency pairs, conversational implicature, writing, language, politics]
 ---

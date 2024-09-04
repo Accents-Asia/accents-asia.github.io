@@ -4,6 +4,15 @@ layout: none
 search_exclude: true
 ---
 
+## Generating the _posts_tags markdown files for all the tags
+
+Run the bash Commands:
+
+```bash
+$ gen_post_tags_files.sh 
+```
+
+
 ## Bash Commands for generating tag files
 
 Lowercase filenames and titles for tags. Spaces and hyphens replaced with underscores

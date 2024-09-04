@@ -14,5 +14,5 @@ articles:
 
 date: 2014-04-01
 categories: [Research Article]
-tags: [English listening comprehension, Taiwanese elementary school students, linguistic variables, cognitive variables, affective variables, communicative language teaching, conversation analysis, action-research]
+tags: [English, listening comprehension, elementary school, linguistic variables, cognitive variables, affective variables, language, conversation analysis, action-research]
 ---

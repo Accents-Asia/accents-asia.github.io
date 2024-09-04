@@ -48,5 +48,5 @@ articles:
 
 date: 2015-07-01
 categories: [Research Article]
-tags: [Flipped Learning, digital writing, smartphone apps, streaming video, pronunciation pairs, tablet computer, quick-types, collocations, constraints, corpora]
+tags: [writing, smartphone apps, streaming video, pronunciation pairs, tablet computer, quick-types, collocations, constraints, corpora]
 ---

@@ -43,5 +43,5 @@ atricles:
 
 date: 2012-04-01
 categories: [Research Article]
-tags: [English composition, listening, teaching philosophy, second language listening comprehension, EFL journal writing, SLA research, cooperative output-focused activities, shadowing, academic writing, grammar]
+tags: [English, composition, listening, teaching philosophy, language, EFL, journal writing, SLA, cooperative output-focused activities, shadowing, writing, grammar]
 ---

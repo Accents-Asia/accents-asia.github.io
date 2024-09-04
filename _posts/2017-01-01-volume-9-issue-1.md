@@ -39,5 +39,5 @@ articles:
 
 date: 2017-01-01
 categories: [Research Article]
-tags: [professional development, vocabulary study, effort attributions, empathy, interaction, SLA, small-sized class, suprasegmental errors, pronunciation instruction]
+tags: [professional development, vocabulary, effort attributions, empathy, interaction, SLA, small-sized class, suprasegmental errors, pronunciation instruction]
 ---
