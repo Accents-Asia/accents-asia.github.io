@@ -16,7 +16,7 @@ articles:
     author: "Morgen Livingston, Salesio Junior and Senior High School, Kanagawa, Japan"
   - title: "Stimulating Students' Extrinsic and Intrinsic Motivation and Sustaining their Attention Through an Online Quiz Tool"
     author: "Tomoe Sato, Yokohama City University, Yokohama, Japan"
-    url: "http://www.issues.accentsasia.org/issues/17-2/Selman_YoJALT_MyShare_June_2023.pdf"
+    url: "/issues/17-2/Selman_YoJALT_MyShare_June_2023.pdf"
     abstract: "In previous years, the Yokohama JALT MyShare sessions had a tech focus in June and a general focus in December. This year we removed that distinction, and decided that we would aim at publishing twice a year, while the ideas are still hot and fresh in the authors’ minds. This semester’s Special Issue consists of three papers in which presenters from our June event share their ideas with those of you who could not attend our hybrid event (and provide more detail to  those of you who did!). As ever, they are pertinent and practical, and especially relevant to language teachers in Japanese high schools and universities."
 date: 2023-09-01
 categories: [Research Article, Special Issue]
