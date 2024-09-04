@@ -11,4 +11,9 @@ Jekyll based site for Accent Asia
 5. Run `bundle exec jekyll serve` in the repository directory
 6. Open `http://localhost:4000` in your browser
 
+#### Generate Tag Files
+
+Run the ```_posts_tags/_gen_posts_tags_files.sh``` script to generate the tag files for the posts.
+
+
 

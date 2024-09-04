@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tags Word Cloud
+title: Keywords Cloud
 exclude_search: true
 ---
 <script>
