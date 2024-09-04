@@ -6,7 +6,6 @@ navitem: false
 dropdown: true
 nav-order: 1
 ---
-
 **2019**
 
 [![](/assets/images/cc_images/cache_951129942.png)](/assets/images/cc_images/teaserbox_951129942.png)
