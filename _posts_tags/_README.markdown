@@ -1,7 +1,7 @@
 ---
 title: Readme
 layout: none
-search_exclude: true
+exclude_search: true
 ---
 
 ## Generating the _posts_tags markdown files for all the tags

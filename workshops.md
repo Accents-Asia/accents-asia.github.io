@@ -5,17 +5,18 @@ permalink: /workshops
 navitem: false
 dropdown: true
 nav-order: 3
+exclude_search: true
 ---
 
 **Program:  Global TC Day 2019** 
 
-[![](https://www.accentsasia.org/s/cc_images/cache_953709792.png?t=1562291829)](https://www.accentsasia.org/s/cc_images/teaserbox_953709792.png?t=1562291829)
+[![](/assets/images/cc_images/cache_953709792.png?t=1562291829)](/assets/images/cc_images/teaserbox_953709792.png?t=1562291829)
 
 **Program:  Global TC Day 2018** 
 
-[![](https://www.accentsasia.org/s/cc_images/cache_955225625.jpg?t=1562291755)](https://www.accentsasia.org/s/cc_images/teaserbox_955225625.jpg?t=1562291755)
+[![](/assets/images/cc_images/cache_955225625.jpg?t=1562291755)](/assets/images/cc_images/teaserbox_955225625.jpg?t=1562291755)
 
-[![](https://www.accentsasia.org/s/cc_images/cache_953709808.jpg?t=1529977501)](https://www.accentsasia.org/s/cc_images/teaserbox_953709808.jpg?t=1529977501)
+[![](/assets/images/cc_images/cache_953709808.jpg?t=1529977501)](/assets/images/cc_images/teaserbox_953709808.jpg?t=1529977501)
 
 **Program:  2018 US Embassy-sponsored English Teachers Intensive Program** 
 
