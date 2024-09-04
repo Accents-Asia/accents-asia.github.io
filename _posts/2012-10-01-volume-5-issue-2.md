@@ -19,5 +19,5 @@ articles:
 
 date: 2012-10-01
 categories: [Research Article]
-tags: [motivation, ALT, JTE, attribution theory, self-esteem, computer-mediated communication, email, communicative competence]
+tags: [motivation, alt, jte, attribution theory, self-esteem, computer-mediated communication, email, communicative competence]
 ---

@@ -44,5 +44,5 @@ articles:
 
 date: 2017-12-01
 categories: [Research Article]
-tags: [extensive listening, Skype exchanges, reflective logs, online, quizzes, EFL, NHK]
+tags: [extensive listening, skype, reflective logs, online, quizzes, efl, nhk]
 ---

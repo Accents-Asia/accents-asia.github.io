@@ -29,5 +29,5 @@ articles:
 
 date: 2015-04-01
 categories: [Research Article]
-tags: [e-learning platform, NNEST, L2, journaling, extensive reading, team-teaching practices, discourse analysis, language]
+tags: [e-learning platform, nnest, l2, journaling, extensive reading, team-teaching practices, discourse analysis, language]
 ---

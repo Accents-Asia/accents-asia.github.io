@@ -8,5 +8,5 @@ articles:
     abstract: "This essay argues for the centrality of metapragmatic awareness to language teaching. It examines literature on teacher language awareness and how it relates to pragmatics, thereby requiring a deeper analysis of the types of competencies necessary for one to be an effective second language teacher. It gives an overview of how teacher awareness of the basic tenets of pragmatics can assist in facilitating meaningful and practical classroom activities."
 date: 2008-04-01
 categories: [Research Article]
-tags: [language, metapragmatics, L2, pragmatics, classroom activities]
+tags: [language, metapragmatics, l2, pragmatics, classroom activities]
 ---

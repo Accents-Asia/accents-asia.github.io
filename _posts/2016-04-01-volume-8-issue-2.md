@@ -49,5 +49,5 @@ articles:
 
 date: 2016-04-01
 categories: [Research Article]
-tags: [pedagogy, EFL, L2, student-teacher interaction, EFL, literacy, team teaching, L2, vocabulary, metalanguage, language]
+tags: [pedagogy, efl, student-teacher interaction, literacy, team teaching, l2, vocabulary, metalanguage, language]
 ---

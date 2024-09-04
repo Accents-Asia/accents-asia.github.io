@@ -35,5 +35,5 @@ articles:
 date: 2013-04-01
 categories: [Research Article]
 author: [Abigail Odakura, Phillip A. Towndrow, Reiko Takeda, Mikiko Sudo, Fumiko Sato, Sachiko Maruoka]
-tags: [EFL, information technology, teacher professional development, language, collaborative pedagogy, vocabulary, extensive reading, East Asian students, EFL]
+tags: [efl, information technology, teacher professional development, language, collaborative pedagogy, vocabulary, extensive reading, east asian students]
 ---

@@ -10,5 +10,5 @@ articles:
 date: 2008-10-01
 categories: [Research Article]
 author: [Atsuko Kikuchi, Gregory P. Glasgow]
-tags: [autonomy, second language, NBP approach, broad perspectives, English]
+tags: [autonomy, second language, nbp approach, broad perspectives, english]
 ---

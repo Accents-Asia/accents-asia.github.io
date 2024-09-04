@@ -29,5 +29,5 @@ articles:
 
 date: 2014-02-01
 categories: [Research Article]
-tags: [globalization, English, EIL, English, language, Interaction Hypothesis, clarification, elaboration, paraphrasing]
+tags: [globalization, english, eil, language, interaction hypothesis, clarification, elaboration, paraphrasing]
 ---

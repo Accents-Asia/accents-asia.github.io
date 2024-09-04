@@ -25,5 +25,5 @@ articles:
 
 date: 2007-04-01
 categories: [Research Article, Book Review]
-tags: [global education, grammar, exam oriented high school, self-confidence, pair taping, CALL, literacy skills]
+tags: [global education, grammar, exam oriented high school, self-confidence, pair taping, call, literacy skills]
 ---
