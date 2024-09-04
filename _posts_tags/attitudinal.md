@@ -1,0 +1,5 @@
+---
+title: attitudinal
+layout: tags
+---
+

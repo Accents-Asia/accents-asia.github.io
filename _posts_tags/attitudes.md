@@ -1,0 +1,5 @@
+---
+title: attitudes
+layout: tags
+---
+

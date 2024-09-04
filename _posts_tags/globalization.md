@@ -1,0 +1,5 @@
+---
+title: globalization
+layout: tags
+---
+

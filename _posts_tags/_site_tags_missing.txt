@@ -7,9 +7,9 @@ layout: none
 {%- assign post_tags = site.posts_tags | map: "title" -%}
 {% assign site_tags = site.tags | sort %}
 {% for tag in site_tags -%}
-{%- if post_tags contains tag[0] -%}
+{% if post_tags contains tag[0] -%}
 FOUND____{{ count }}_:_{{ tag[1] | size }}_, {{ tag[0] }}
-{%- else %}
+{% else -%}
 NOTFOUND_{{ count }}_:_{{ tag[1] | size }}_, {{ tag[0] }}
 {%- endif %}
 {%- assign count = count | plus: 1 -%}

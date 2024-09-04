@@ -35,7 +35,8 @@ layout: default
                 {%- for tag in tags -%}
                     {%- assign tag_slug = tag[0] | sluggify -%}
                     {%- assign weight = site.tags[tag_slug] | size -%}
-                    {%- if weight > 2 -%}
+                    {{ tag_slug }} {{ weight }}
+                    {%- if weight > 1 -%}
                         <h5>{{ tag[0] | capitalize }}</h5>
                         <ul>
                             {% for post in tag[1] %}

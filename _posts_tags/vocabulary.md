@@ -1,0 +1,5 @@
+---
+title: vocabulary
+layout: tags
+---
+

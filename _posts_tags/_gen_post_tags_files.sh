@@ -41,10 +41,20 @@ do
     FILENAME=${FILENAME//-/_}; 
 
     # Replace spaces with dashes and lowercase the title
-    LINE=$(echo ${line,,} | sed 's/ /-/g');
+    # LINE=$(echo ${line,,} | sed 's/ /-/g');
 
-    # Create a new file with the tag name and md contents
-    echo -e "---\ntitle: ${LINE}\nlayout: tags\n---\n" > "${FILENAME}.md";
-    echo "Created file: ${FILENAME}.md";
+    # Replace lowercase the title for use in the md file title parameter
+    LINE=$(echo ${line,,});
+
+    # If the FILENAME is not null, then create a new file
+    if [ -z "${FILENAME}" ]; then
+        echo "Filename is null. Skipping tag: ${LINE} and Filename: ${FILENAME}";
+        continue;
+    else 
+        # Create a new file with the tag name and md contents
+        echo -e "---\ntitle: ${LINE}\nlayout: tags\n---\n" > "${FILENAME}.md";
+        echo "Created file: ${FILENAME}.md";
+    fi
+    
 done;
 

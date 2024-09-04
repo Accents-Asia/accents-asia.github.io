@@ -1,0 +1,5 @@
+---
+title: newspaper
+layout: tags
+---
+
