@@ -28,6 +28,6 @@ articles:
     abstract: "In this paper, the Interaction Hypothesis is considered in an analysis of a short script between a native English speaker and three Japanese ESL learners (non-native English speakers). Through this analysis, the roles clarification, elaboration, and paraphrasing play in creating and improving comprehensible input and output are identified and discussed, thus providing support for the Interaction Hypothesis."
 
 date: 2014-02-01
-categories: [Research Article]
+
 tags: [globalization, english, eil, language, interaction hypothesis, clarification, elaboration, paraphrasing]
 ---

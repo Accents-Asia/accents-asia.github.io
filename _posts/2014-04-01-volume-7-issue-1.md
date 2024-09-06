@@ -13,6 +13,6 @@ articles:
     abstract: "In this brief, reflective analysis, the author conducts an exploratory conversation analysis action-research project to better understand the dynamics of her own classroom. She attempts to answer the simple question of how effective she is in promoting a communicative learning environment in her Japanese university classroom. Her findings include increased understanding of her own limitations in encouraging student output, as well as surprise at how readily students engaged in repair practices."
 
 date: 2014-04-01
-categories: [Research Article]
+
 tags: [english, listening comprehension, elementary school, linguistic variables, cognitive variables, affective variables, language, conversation analysis, action-research]
 ---

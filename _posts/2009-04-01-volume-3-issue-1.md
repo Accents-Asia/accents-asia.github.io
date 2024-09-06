@@ -12,7 +12,7 @@ articles:
     url: /issues/3-1/kubo.pdf
     abstract: "How can English as a Foreign Language (EFL) instructors effectively monitor and assess their students’ spoken second language (L2) production and progress?  By the same token, how can students track their own L2 speaking proficiencies as well as progress?  Pair Taping (PT) is one such method. The author takes a critical look at the literature relating to PT and EFL learner confidence, and applies them to his use of PT.  The author’s qualitative and quantitative research suggests that PT is an affective method in helping students bolster their spoken L2 (English) self-confidence and fluency, providing both student and teacher with valuable insights."
 date: 2009-04-01
-categories: [Research Article]
+
 author: [Stephen Russell, Michael Kubo]
 tags: [expectations, satisfaction, university, intensive english, eil, pair taping, college students, japan, confidence, fluency]
 ---

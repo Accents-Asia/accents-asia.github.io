@@ -43,6 +43,6 @@ articles:
       abstract: "Contemporary students are connected to the Internet and thrive on high visual stimulation. Padlet is an online application which replicates the feeling of a virtual bulletin board for sharing ideas, videos, web-based text, and more. Educators have turned Padlet into an online space for posting project information, mind-mapping, or displaying supplementary materials for access outside of the learning environment. This article will introduce and examine support for the use of Padlet in education, briefly explain how to use Padlet, and offer practical applications for those in English-as-a-second/English-as-a-foreign-language (ESL/EFL) learning settings."
 
 date: 2017-12-01
-categories: [Research Article]
+
 tags: [extensive listening, skype, reflective logs, online, quizzes, efl, nhk]
 ---

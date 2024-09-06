@@ -18,6 +18,6 @@ articles:
     abstract: "Computer-mediated communication (CMC) is an important medium by which teachers and students interact both inside and outside of the classroom. Unfortunately, CMC has received little attention in terms of second-language (L2) acquisition. This paper reviews a variety of recent research on CMC’s role in language teaching to provide a basis for understanding how the medium can aid L2 teaching and learning. The review shows that CMC’s role in L2 teaching is effective when the process is blended with explicit instruction and autonomous practice. However, this paper also illustrates how L2 learners lack pragmatic competence when using CMC that results in misunderstandings when student-to-teacher or native-to-non-native interaction occurred. The review concludes with pedagogical considerations for L2 teaching and learning."
 
 date: 2012-10-01
-categories: [Research Article]
+
 tags: [motivation, alt, jte, attribution theory, self-esteem, computer-mediated communication, email, communicative competence]
 ---

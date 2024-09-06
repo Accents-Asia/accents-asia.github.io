@@ -24,6 +24,6 @@ articles:
     book: "'The Shame of the Nation: The Restoration of Apartheid Schooling in America' by Jonathan Kozol (2006)."
 
 date: 2007-04-01
-categories: [Research Article, Book Review]
+categories: [Book Review]
 tags: [global education, grammar, exam oriented high school, self-confidence, pair taping, call, literacy skills]
 ---

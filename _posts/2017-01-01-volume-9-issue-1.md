@@ -38,6 +38,6 @@ articles:
     abstract: "This paper reports on findings from an investigation into the reason why 50 Vietnamese adult EFL learners have made so many pronunciation errors, particularly suprasegmental errors. The data of this qualitative research study provides evidence that pronunciation instruction was focused on individual sounds (segmentals) and tended to overlook suprasegmetals. Additionally, the study shows that lack of exposure to foreigners, both inside and outside the classroom, is one of the main factors in determining the participants’ pronunciation errors."
 
 date: 2017-01-01
-categories: [Research Article]
+
 tags: [professional development, vocabulary, effort attributions, empathy, interaction, sla, small-sized class, suprasegmental errors, pronunciation instruction]
 ---

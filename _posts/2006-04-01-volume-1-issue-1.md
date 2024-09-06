@@ -4,7 +4,7 @@ issue: Volume 1 Issue 1, April 2006
 articles:
   - title: An Introduction to Accents Asia
     author: Martha Clark Cummings, Teachers College, Columbia University
-    url: /issues/1-1/clark_cummings.pdf
+    url: /issues/1-1/cummings.pdf
     abstract: In this introduction to the inaugural issue of Accents Asia, Martha Clark Cummings introduces the concept of this journal and the motivating factors behind its creation.  She encourages graduate students in TESOL programs to embrace the opportunity to share their research with the larger English education community in the hopes of demystifying the TESOL field, and creating a platform for the TESOL student to develop as a TESOL professional.
 
   - title: Introducing a Global Issues Curriculum at the High School Level
