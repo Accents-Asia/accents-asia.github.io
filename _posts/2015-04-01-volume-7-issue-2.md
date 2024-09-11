@@ -4,12 +4,12 @@ issue: Volume 7, Issue 2 April 2015
 articles:
     - title: "The Preference of Learning With Various Authentic Materials on an E-Platform: A Survey on Advanced-Level Students"
       author: "Min Lun Yeh"
-      url: "/issues/7-2/lun_yeh.pdf"
+      url: "/issues/7-2/Lun_Yeh.pdf"
       abstract: "Numerous academic findings have shown that authenticity engages students in learning languages. Also, language learners have relied on authentic materials as evidenced in much research. The purpose of this paper is to determine the viability of applying authentic materials to an e-learning platform by collecting quantitative information from a questionnaire surveying 77 freshmen students at a technology university in Taiwan. These students were placed at an advanced level. They were exposed to various kinds of authentic materials in the one-year Freshmen English class. By the end of the school year, they were asked to fill out a Likert-scale questionnaire concerning their attitude toward the authenticity presented in the class. The findings are intended to illuminate the effectiveness of authentic materials in an e-learning platform."
     
     - title: "NNESTs on the Rise: Learning and Teaching of L2 Pragmatics"
       author: "Akiko Chiba"
-      url: "/issues/7-2/chiba.pdf"
+      url: "/issues/7-2/Chiba.pdf"
       abstract: "It has been a widely accepted perception that only the native-language teachers can teach the authentic language form, whereas nonnative-language teachers are considered as second class professionals (Mahboob, 2004; Brain, 2010; Kumaravadivelu, 2012); the so called “native speaker fallacy” (Phillipson, 1992). With such preference to native teachers still being prominent on one hand, the population of nonnative English-speaking teachers (NNESTs) today outnumbers its counterpart on the other (Kahmi-Stein, 2004). Although the benefit of the local NNESTs are somewhat recognized (Medgyes, 1999; Mahboob, 2004), the favoritism toward native teachers seems to be deep-rooted (Mahboob, 2004; Braine, 2010). This phenomenon brings about several disadvantages to nonnative-language teachers, such as limited employment opportunities and difficulties in teaching areas such as pronunciation and culture, which can lead to diminishing confidence as language-teaching professionals altogether. Despite this undesirable circumstance, research on instructional pragmatics, which specifically targets the needs of nonnative English-speaking teachers, is rather scarce. Thus, this paper examines how NNESTs can be empowered to teach the target community pragmatics, by investigating NNESTs’ challenges in learning and teaching the target community pragmatics, and secondly, by exploring means to overcome some of the disadvantages that hinder NNESTs as English language professionals."
 
     - title: "The Effects of Journaling on Taiwanese EFL Students’ Extensive Reading Habits and Attitudes"

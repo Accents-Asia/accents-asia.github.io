@@ -2,11 +2,21 @@
     <div class="row">
         <div class="col-md">
           <ul>Navigation
+            <li class="nav-item"><a href="/" class=" link">Home</a></li>
           {% for item in site_pages %}    
             {% if item.navitem == true %}
-              <li class="nav-item"><a href="{{ item.url }}" class="nav-link">{{ item.title }}</a></li>
+              <li class="nav-item"><a href="{{ item.url }}" class="link">{{ item.title }}</a></li>
             {% endif %}        
           {% endfor %}
+          <li class="nav-item"><a href="#top" class=" link">Back To Top</a></li>          
+          <li class="nav-item">
+            <p class="feed-subscribe">
+              <a class="btn btn-orange " href="{{ 'feed.xml' | relative_url }}">
+                <i class="bi bi-rss-fill"></i>
+                <span>RSS Feed</span>
+              </a>
+            </p>
+          </li> 
           </ul>
         </div>
         <div class="col-md">

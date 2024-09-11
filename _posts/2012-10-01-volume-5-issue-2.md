@@ -9,7 +9,7 @@ articles:
 
   - title: "Applying the Findings of Attribution Theory-Related Research to the College Foreign Language Classroom"
     author: Guy Smith, Tokyo Women's Christian University  
-    url: /issues/5-2/smith.pdf
+    url: /issues/5-2/Smith.pdf
     abstract: "In this paper, the author first discusses how attributions, in general, play a role in student motivation regarding effort when attempting tasks and in coming to decisions of whether to continue or discontinue those efforts. In particular, the focus is on the context of Japanese EFL learners and their low self-esteem as competent language learners and users. The importance of enabling such students to gain a clear point of reference regarding their own personal progress and improvement, and the implications this has for their self-perception as successful and competent second language learners is explored through an action research project."
 
   - title: "Computer-Mediated Communicative Competence: How Email Facilitates Second-Language Learning"

@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: Volume 5, Issue 1 April 2012
-atricles:
+articles:
     - title: "Emphasizing Content in the English Composition Classroom in Japan"
       author: Jonathan Brown, University of Yamanashi, Kofu
       url: /issues/5-1/brown.pdf
