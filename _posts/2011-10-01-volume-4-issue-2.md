@@ -35,6 +35,6 @@ articles:
     url: /issues/4-2/sanchez.pdf
     
 date: 2011-10-01
-categories: [Research Article, Book Review]
+categories: [Book Review]
 tags: [teacher development, corrective feedback, language, revitalization, phonological memory, vocabulary, toefl, writing]
 ---

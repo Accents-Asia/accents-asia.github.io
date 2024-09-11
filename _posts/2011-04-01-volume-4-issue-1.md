@@ -23,6 +23,6 @@ articles:
       abstract: "This article looks at how teachers can improve student motivation through conducting one on one Oral Proficiency Interviews, particularly focusing on younger EFL learners in the Japan context. It provides some basic guidelines for teachers new to such interviews on how to conduct a successful interview."
 
 date: 2011-04-01
-categories: [Research Article]
+
 tags: [newspaper, multimodal, language, phonological competence, oral proficiency interviews, student motivation]
 ---

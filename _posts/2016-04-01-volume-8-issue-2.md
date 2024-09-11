@@ -48,6 +48,6 @@ articles:
     abstract: "In this paper, the author reviews research on the use of metalanguage in language education to suggest that metalanguage has productive uses in communicative language teaching (CLT). First, there is an exploration of definitions which begins by borrowing Berry’s (2005) notion of metalanguage as an imprecise concept, indistinct from the target language. Then, the relevant aspects of SLA theory including metalinguistic knowledge, meaning-focus and focus on form, implicit and explicit knowledge, and languaging are explored to frame the potential utility of metalanguage. Finally, a summary of research on metalanguage is provided, followed by a discussion of conclusions. The findings indicate that metalanguage can be used productively in CLT if proper consideration is taken for students’ varied metalinguistic backgrounds and target language proficiency. Furthermore, written tasks with a goal of passive metalinguistic knowledge seemed to be better suited for metalinguistic instruction. In addition to its use during class time, metalanguage may be considered a learning strategy which leads to increased learner autonomy."
 
 date: 2016-04-01
-categories: [Research Article]
+
 tags: [pedagogy, efl, student-teacher interaction, literacy, team teaching, l2, vocabulary, metalanguage, language]
 ---

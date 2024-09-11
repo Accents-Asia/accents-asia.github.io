@@ -26,6 +26,6 @@ articles:
     url: /issues/3-2/reviews.pdf
 
 date: 2009-10-01
-categories: [Research Article, Book Review]
+categories: [Book Review]
 tags: [japanese, efl, listening comprehension, toefl, conversation analysis, adjacency pairs, conversational implicature, writing, language, politics]
 ---

@@ -33,7 +33,7 @@ articles:
     abstract: "East Asian countries have shifted the pedagogical focus of English education from grammatical components to developing communicative skills in English and positive attitudes towards engaging in proactive communication as a responsible member of a community, both of which can be components in learner autonomy. However, such shifts can not necessarily be found in the reality of English as a Foreign Language (EFL) classrooms. This paper explores the extent to which East Asian students can be autonomous in EFL classes, and if the gap between the education policies and the reality of EFL education in East Asia can be closed by promoting learner autonomy through certain types of activities, specifically cooperative learning (CL). The paper concludes that reactive autonomy, which is proposed by Littlewood (1999), is congruent with East Asian students, and that CL has potential to promote the students’ autonomy and to accomplish Japanese education policies focusing on communicative proficiency in EFL classrooms."
 
 date: 2013-04-01
-categories: [Research Article]
+
 author: [Abigail Odakura, Phillip A. Towndrow, Reiko Takeda, Mikiko Sudo, Fumiko Sato, Sachiko Maruoka]
 tags: [efl, information technology, teacher professional development, language, collaborative pedagogy, vocabulary, extensive reading, east asian students]
 ---

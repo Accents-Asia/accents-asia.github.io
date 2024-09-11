@@ -13,7 +13,7 @@ articles:
     abstract: This study examines attitudes and motivation and its role in the study of English in the Japanese junior high school EFL setting. Using extensive qualitative and statistical quantitative data analysis, the author attempts to gauge attitudinal and motivational trends among junior high school students towards English education. The purpose of this study was to investigate the primary sources of motivation for students, and whether there would be changes in these attitudes and motivations towards English education as they progressed from their first-year to third-year of study.
 
 date: 2006-10-01
-categories: [Research Article]
+
 author: [Asako Kato, Michael K. Leung]
 tags: [error analysis, high school, essays, attitudinal, motivational, junior high school, english]
 ---
