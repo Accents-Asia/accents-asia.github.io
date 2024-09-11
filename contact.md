@@ -11,7 +11,7 @@ nav-order: 1
   
 **Editorial Committee:**  
   
-**Chris Carl Hale**  
+**[Chris Carl Hale](https://chriscarlhale.com)**  
 **Akita International University****, Akita, Japan**
 
 **Jennie Roloff-Rothman**  
@@ -35,9 +35,7 @@ nav-order: 1
 
 Address:  
 Attn: Chris Carl Hale, Ed.D.
-
 Akita International University
-
 Yuwa, Akita City, Japan 010-1292  
 Phone: +81-18-886-5900  
 E-mail:[info@accentsasia.org](mailto:office@tc-japan.edu)
