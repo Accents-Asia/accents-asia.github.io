@@ -7,7 +7,7 @@ dropdown: true
 nav-order: 1
 ---
   
-**General Inquiries: info@accentsasia.org**  
+**General Inquiries: [info@accentsasia.org](mailto:info@accentsasia.org)**
   
 **Editorial Committee:**  
   
@@ -34,8 +34,8 @@ nav-order: 1
 **Rikkyo University, Tokyo, Japan**
 
 Address:  
-Attn: Chris Carl Hale, Ed.D.
-Akita International University
-Yuwa, Akita City, Japan 010-1292  
-Phone: +81-18-886-5900  
+Attn: Chris Carl Hale, Ed.D.<br/>
+Akita International University<br/>
+Yuwa, Akita City, Japan 010-1292<br/>
+Phone: +81-18-886-5900<br/>
 E-mail:[info@accentsasia.org](mailto:office@tc-japan.edu)
