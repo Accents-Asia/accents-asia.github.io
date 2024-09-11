@@ -26,7 +26,7 @@ ls -al
 ls -al ../_site/_site_tags_missing.txt
 
 # Generate a list of tags
-cat ../_site/_site_tags_missing.txt | awk -F"," '{print $2}' | sort | \
+cat ../_site/_site_tags_missing.txt | grep NOTFOUND_ | awk -F"," '{print $2}' | sort | \
 while read line;
 do 
     echo "Processing tag: ${line}";
