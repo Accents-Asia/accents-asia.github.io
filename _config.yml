@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Teachers College Columbia University, Japan. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://accentsasia.org" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/favicon/android-chrome-192x192.png
 date_format: "%b-%d-%Y"
 show_excerpts: true
