@@ -43,5 +43,5 @@ articles:
 
 date: 2012-04-01
 categories: [Book Review]
-tags: [english, composition, listening, teaching philosophy, language, efl, journal writing, sla, cooperative output-focused activities, shadowing, writing, grammar]
+tags: [english, composition, listening, teaching philosophy, efl, journal writing, sla, cooperative output-focused activities, shadowing, writing, grammar]
 ---

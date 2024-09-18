@@ -24,5 +24,5 @@ articles:
 
 date: 2011-04-01
 
-tags: [newspaper, multimodal, language, phonological competence, oral proficiency interviews, student motivation]
+tags: [newspaper, multimodal, phonological competence, oral proficiency interviews, student motivation]
 ---

@@ -13,7 +13,7 @@ exclude_search: true
             tags.push({
                 text: "{{ title }}",
                 weight: '{{ weight }}',
-                link: '{% include tag_url.html tag=title %}'
+                link: '{% include tag_url.html tag=title %}?w={{ weight }}'
             });
         {%- endfor %}
 

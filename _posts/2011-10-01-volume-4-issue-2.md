@@ -36,5 +36,5 @@ articles:
     
 date: 2011-10-01
 categories: [Book Review]
-tags: [teacher development, corrective feedback, language, revitalization, phonological memory, vocabulary, toefl, writing]
+tags: [teacher development, corrective feedback, revitalization, phonological memory, vocabulary, toefl, writing]
 ---

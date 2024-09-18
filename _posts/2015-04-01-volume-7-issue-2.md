@@ -5,7 +5,7 @@ articles:
     - title: "The Preference of Learning With Various Authentic Materials on an E-Platform: A Survey on Advanced-Level Students"
       author: "Min Lun Yeh"
       url: "/issues/7-2/Lun_Yeh.pdf"
-      abstract: "Numerous academic findings have shown that authenticity engages students in learning languages. Also, language learners have relied on authentic materials as evidenced in much research. The purpose of this paper is to determine the viability of applying authentic materials to an e-learning platform by collecting quantitative information from a questionnaire surveying 77 freshmen students at a technology university in Taiwan. These students were placed at an advanced level. They were exposed to various kinds of authentic materials in the one-year Freshmen English class. By the end of the school year, they were asked to fill out a Likert-scale questionnaire concerning their attitude toward the authenticity presented in the class. The findings are intended to illuminate the effectiveness of authentic materials in an e-learning platform."
+      abstract: "Numerous academic findings have shown that authenticity engages students in learning languages. Also learners have relied on authentic materials as evidenced in much research. The purpose of this paper is to determine the viability of applying authentic materials to an e-learning platform by collecting quantitative information from a questionnaire surveying 77 freshmen students at a technology university in Taiwan. These students were placed at an advanced level. They were exposed to various kinds of authentic materials in the one-year Freshmen English class. By the end of the school year, they were asked to fill out a Likert-scale questionnaire concerning their attitude toward the authenticity presented in the class. The findings are intended to illuminate the effectiveness of authentic materials in an e-learning platform."
     
     - title: "NNESTs on the Rise: Learning and Teaching of L2 Pragmatics"
       author: "Akiko Chiba"
@@ -29,5 +29,5 @@ articles:
 
 date: 2015-04-01
 
-tags: [e-learning platform, nnest, l2, journaling, extensive reading, team-teaching practices, discourse analysis, language]
+tags: [e-learning platform, nnest, l2, journaling, extensive reading, team-teaching practices, discourse analysis]
 ---

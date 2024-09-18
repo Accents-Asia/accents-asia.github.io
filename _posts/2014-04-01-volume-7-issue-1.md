@@ -14,5 +14,5 @@ articles:
 
 date: 2014-04-01
 
-tags: [english, listening comprehension, elementary school, linguistic variables, cognitive variables, affective variables, language, conversation analysis, action-research]
+tags: [english, listening comprehension, elementary school, linguistic variables, cognitive variables, affective variables, conversation analysis, action-research]
 ---

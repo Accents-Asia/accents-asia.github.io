@@ -29,5 +29,5 @@ articles:
 
 date: 2014-02-01
 
-tags: [globalization, english, eil, language, interaction hypothesis, clarification, elaboration, paraphrasing]
+tags: [globalization, english, eil, interaction hypothesis, clarification, elaboration, paraphrasing]
 ---
