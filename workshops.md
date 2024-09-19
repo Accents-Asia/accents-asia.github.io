@@ -4,7 +4,7 @@ title: Teacher Training Workshops
 permalink: /workshops
 navitem: false
 dropdown: true
-nav-order: 3
+nav-order: 6
 exclude_search: true
 ---
 

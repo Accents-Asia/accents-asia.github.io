@@ -2,9 +2,9 @@
 layout: default
 title: Submissions Guide
 permalink: /submissions-guide
-navitem: true
-dropdown: false
-nav-order: 3
+navitem: false
+dropdown: true
+nav-order: 4
 ---
 
 Accents Asia is looking for articles written by teacher researchers working in the East Asian context. The format for articles submitted is not rigid in that there is no set number of words or pages required for an article to be consider for citation.
