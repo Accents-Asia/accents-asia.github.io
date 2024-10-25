@@ -31,6 +31,7 @@ tags: [jalt, teacher development, games]
 [View Article]({{ article.url }})
 {% endif %}
 {% if article.abstract %}
+#### Abstract
 {{ article.abstract }}
 {% endif %}
 {% endfor %}
