@@ -5,22 +5,28 @@ navitem: true
 dropdown: false
 nav-order: 1
 title: Current Issue
-issue: Volume 18 Issue 2, October 2024
+issue: Volume 19 Issue 1, December 2024 
 articles:
-  - title: "Yokohama JALT My Share 2024 [Special Issue]"
-  - title: "Foreword"
-    author: Alexander L. Selman, Rikkyo University
-    url: "/issues/18-2/Selman_YoJALT_MyShare.pdf"
-  - title: "Choosing Board Games for the ESL Classroom"
-    author: Nicole Ballard, Meiji Gakuin University, Kanagawa, Japan
-  - title: "A Debate-Centered Approach to Developing Students' Persuasive Communication and Critical Thinking Skills"
-    author: Margalit Faden, Tokai University, Tokyo, Japan
-  - title: "Creating SDG-Themed Proposals Using James Clear’s Atomic Habits"
-    author: Ken Ikeda, Otsuma Women’s University, Tokyo, Japan. 
-  - title: Teaching Academic Writing Across Proficiency Levels:A Genre-Driven Approach
-    author: Tomoko Kojima, Keio University, Jikei University, Keio Futsubu Junior High School, Japan
-    abstract: The Yokohama JALT MyShare sessions are held every year in June and December. This Special Issue consists of one paper from December 2023 and three from June 2024. Here, the presenters share their ideas with those of you who could not attend our hybrid events (and provide more detail to  those of you who did!). They contain practical ideas for language teachers to try out in their classrooms, and explanations to give more theoretical basis than is possible in the short My Share presentations. In this issue we learn about bringing games into the classroom, developing critical thinking skills through debate, connecting classes to Sustainable Development Goals, and supporting writing class with a genre-driven approach. 
-tags: [jalt, teacher development, games]
+  - title: "Introduction to the Special Issue: Future Educators Bridging Theory and Practice in Language Education"
+    author: Chris Carl Hale
+  - title: "Teaching ESL/EFL Listening and Speaking (2nd ed.)"
+    author: "Jonathan M. Newton and I.S.P. Nation. Routledge, 2021. Reviewed by Akito Murata" 
+  - title: "Teaching ESL/EFL Reading and Writing. (2nd ed.)"
+    author: "I.S.P. Nation and John Macalister. Routledge, 2021. Reviewed by Chia-An Tsai"
+  - title: "Team Teachers in Japan: Beliefs, Identities, and Emotions"
+    author: "Takaaki Hiratsuka (Ed). Routledge, 2023. Reviewed by June Ha Kim"
+  - title: "The Paradoxes of Interculturality: A Toolbox of Out-of-the-box Ideas for Intercultural Communication Education"
+    author: "Fred Dervin. Routledge, 2022. Reviewed by Queena Xu"
+  - title: "Language Socialization in Classrooms: Culture, Interaction, and Language Development"
+    author: "Matthew J. Burdelski and Kathryn M. Howard (Eds.). Cambridge University Press, 2020. Reviewed by Rie Kawamura"
+  - title: "Foreign Female English Teachers in Japanese Higher Education: Narratives From Our Quarter"
+    author: "Diane Hawley Nagatomo, Kathleen A. Brown, & Melodie L. Cook (Eds.). Candlin and Mynard, 2020. Reviewed by Sarina Sugawara"
+  - title: "The Development of L2 Interactional Competence: A Multimodal Study of Complaining in French Interactions"
+    author: "Klara Skogmyr Marian. Routledge, 2022. Reviewed by Wing Yiu"
+    url: "issues/19-1/Hale_special_issue.pdf"
+date: 2024-12-01
+tags: [culture, L2, esl, efl]
+categories: [Special Edition]
 ---
 {%- for article in page.articles %}
 #### {{ article.title }}
