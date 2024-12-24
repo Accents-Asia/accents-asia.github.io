@@ -22,7 +22,7 @@ articles:
   - title: "Foreign Female English Teachers in Japanese Higher Education: Narratives From Our Quarter"
     author: "Diane Hawley Nagatomo, Kathleen A. Brown, & Melodie L. Cook (Eds.). Candlin and Mynard, 2020. Reviewed by Sarina Sugawara"
   - title: "The Development of L2 Interactional Competence: A Multimodal Study of Complaining in French Interactions"
-    author: "Klara Skogmyr Marian. Routledge, 2022. Reviewed by Wing Yiu"
+    author: "Klara Skogmyr Marian. Routledge, 2022. Reviewed by Wing Yiu Ling"
     url: "issues/19-1/Hale_special_issue.pdf"
 date: 2024-12-01
 tags: [culture, L2, esl, efl]
