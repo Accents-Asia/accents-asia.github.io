@@ -1,0 +1,5 @@
+---
+title: education
+layout: tags
+---
+
