@@ -5,39 +5,27 @@ navitem: true
 dropdown: false
 nav-order: 1
 title: Current Issue
-issue: Volume 19 Issue 1, December 2024 
-articles:
-  - title: "Introduction to the Special Issue: Future Educators Bridging Theory and Practice in Language Education"
-    author: Chris Carl Hale
-  - title: "Teaching ESL/EFL Listening and Speaking (2nd ed.)"
-    author: "Jonathan M. Newton and I.S.P. Nation. Routledge, 2021. Reviewed by Akito Murata" 
-  - title: "Teaching ESL/EFL Reading and Writing. (2nd ed.)"
-    author: "I.S.P. Nation and John Macalister. Routledge, 2021. Reviewed by Chia-An Tsai"
-  - title: "Team Teachers in Japan: Beliefs, Identities, and Emotions"
-    author: "Takaaki Hiratsuka (Ed). Routledge, 2023. Reviewed by June Ha Kim"
-  - title: "The Paradoxes of Interculturality: A Toolbox of Out-of-the-box Ideas for Intercultural Communication Education"
-    author: "Fred Dervin. Routledge, 2022. Reviewed by Queena Xu"
-  - title: "Language Socialization in Classrooms: Culture, Interaction, and Language Development"
-    author: "Matthew J. Burdelski and Kathryn M. Howard (Eds.). Cambridge University Press, 2020. Reviewed by Rie Kawamura"
-  - title: "Foreign Female English Teachers in Japanese Higher Education: Narratives From Our Quarter"
-    author: "Diane Hawley Nagatomo, Kathleen A. Brown, & Melodie L. Cook (Eds.). Candlin and Mynard, 2020. Reviewed by Sarina Sugawara"
-  - title: "The Development of L2 Interactional Competence: A Multimodal Study of Complaining in French Interactions"
-    author: "Klara Skogmyr Marian. Routledge, 2022. Reviewed by Wing Yiu Ling"
-    url: "issues/19-1/Hale_special_issue.pdf"
-date: 2024-12-01
-tags: [culture, L2, esl, efl]
-categories: [Special Edition]
 ---
-{%- for article in page.articles %}
-#### {{ article.title }}
-{% if article.author %}
-{{ article.author }}
-{% endif %}
-{% if article.url %}
-[View Article]({{ article.url }})
-{% endif %}
-{% if article.abstract %}
-#### Abstract
-{{ article.abstract }}
-{% endif %}
-{% endfor %}
+{%- for lastpost in site.posts %}
+  {%- if forloop.first -%}
+<h2>{{ lastpost.issue }}</h2>
+    {%- for articles in lastpost.articles -%}
+      {%- if articles.title %}
+<h3>{{ articles.title }}</h3>
+      {%- endif -%}
+
+      {%- if articles.author -%}
+<p>{{ articles.author }}</p>
+      {%- endif -%}
+
+      {%- if articles.abstract -%}
+<h4>Abstract</h4>
+<p>{{ articles.abstract }}</p>
+      {%- endif -%}
+
+      {%- if articles.url -%}
+<p><a href="{{ articles.url | relative_url }}">View Article</a></p>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
