@@ -1,0 +1,27 @@
+{% include head.html %}
+
+{% include header.html %}
+
+<main class="container">  
+    
+    {% if page.layout != 'post' %}
+        <div class="row">
+            <div class="col">
+                <h2>{{ page.title }}</h2>
+            </div>
+        </div>
+    {% endif %}
+    
+    <div class="row">
+        <div class="col-sm">
+            {% include consult_form.html %}
+        </div>
+        <div class="col-sm">
+            {{ content }}
+        </div>
+    </div>
+</main>
+
+{% include search_results_modal.html %}
+
+{% include footer.html %}

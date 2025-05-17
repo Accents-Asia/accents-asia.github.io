@@ -1,16 +1,16 @@
 ---
-layout: default
-title: Contact
+layout: contact
+title: Contact Us 
 permalink: /contact
 navitem: false
 dropdown: true
 nav-order: 1
 ---
+
+### Editorial Committee  
   
 **General Inquiries: [info@accentsasia.org](mailto:info@accentsasia.org)**
-  
-**Editorial Committee:**  
-  
+
 **[Chris Carl Hale](https://chriscarlhale.com)**  
 **Akita International University****, Akita, Japan**
 
