@@ -56,12 +56,15 @@ jobs:
       - name: Encrypt pages with PageCrypt
         run: |
           npm i -D pagecrypt
+          echo "npx pagecrypt Version: "
+          echo `npx pagecrypt -v`
           cat _protected_pages.txt | while read file password;
           do
             sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
           done
+          echo "Completed Obfuscation :P"
       # End encryption code.
-          
+      
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
