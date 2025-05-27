@@ -1,17 +1,14 @@
 ---
 layout: issue
-permalink: /current-issue
+permalink: /current-issue/
 navitem: true
 dropdown: false
 nav-order: 1
 title: Current Issue
 ---
-{% assign allposts = site.posts | sort: 'date' | reverse %}
-
+{%- assign allposts = site.posts | sort: 'date' | reverse -%}
 {%- for post in allposts %}
   {%- if forloop.first -%}
-
-item number: {{ forloop.index }}
 <h2>{{ post.issue }}</h2>
     {%- for articles in post.articles -%}
       {%- if articles.title %}
@@ -28,7 +25,7 @@ item number: {{ forloop.index }}
       {%- endif -%}
 
       {%- if articles.url -%}
-<p><a href="{{ articles.url | relative_url }}">View Article</a></p>
+<p><a href="{{ articles.url | relative_url }}" onclick="ga('send', 'event', 'Downloads', 'PDF Download', '{{ articles.url | replace: '/issues/' }}');"  >View Article</a></p>
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}

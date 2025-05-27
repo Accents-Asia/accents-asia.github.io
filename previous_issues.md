@@ -20,12 +20,12 @@ nav-order: 2
             {{ post.issue | escape }}
           </a>
         </h3>
-        <ul>        
+        <ul>
         {% for article in post.articles %}
           <li>
             {{ article.title }}
           </li>
-        {% endfor %}        
+        {% endfor %}
         </ul>
         <!-- COMMENTED OUT TO REMOVE EXCERPTS
         <%- if site.show_excerpts -%>
