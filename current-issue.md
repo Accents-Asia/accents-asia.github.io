@@ -6,10 +6,14 @@ dropdown: false
 nav-order: 1
 title: Current Issue
 ---
-{%- for lastpost in site.posts %}
+{% assign allposts = site.posts | sort: 'date' | reverse %}
+
+{%- for post in allposts %}
   {%- if forloop.first -%}
-<h2>{{ lastpost.issue }}</h2>
-    {%- for articles in lastpost.articles -%}
+
+item number: {{ forloop.index }}
+<h2>{{ post.issue }}</h2>
+    {%- for articles in post.articles -%}
       {%- if articles.title %}
 <h3>{{ articles.title }}</h3>
       {%- endif -%}

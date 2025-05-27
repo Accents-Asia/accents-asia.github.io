@@ -1,2 +1,1 @@
 test.html thisisatest
-issues/secure_pdf_doc.pdf securepdf
