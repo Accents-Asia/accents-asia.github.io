@@ -18,7 +18,7 @@ layout: blog
         {% endif %}
 
         {% if article.url %}
-            <p><a href="{{ article.url }} target="_blank" onclick="_gaq.push(['_trackEvent','Download','PDF', '{{article.url}}']);">View Article</a></p>    
+            <p><a href="{{ article.url }}" target="_blank" onclick="_gaq.push(['_trackEvent','Download','PDF', '{{article.url}}']);">View Article</a></p>    
         {% endif %}        
     {% endfor %}
 {% endif %}
