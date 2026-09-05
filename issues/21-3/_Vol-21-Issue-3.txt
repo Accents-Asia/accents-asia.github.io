@@ -1,0 +1,51 @@
+Volume 21 Issue 3, September 2026
+
+
+Conversations That Changed Our Teaching: Appreciative Inquiry in a Graduate TESOL Program
+
+Daniel Hooper, Chuo University; Russell Chan, Sugiyama Jogakuen University; Tomoko Kaji, Nagoya University of Foreign Studies; Gabriel Misaka, Nagoya University of Foreign Studies
+
+
+
+ABSTRACT:
+Traditional approaches to continuous professional development (CPD) have been increasingly criticized in recent years for adopting transmissive, deficit-oriented models that often discount and even undermine teachers' professional identities, agency, and wellbeing. To address this criticism, strengths-based approaches such as appreciative inquiry (AI) have been presented as viable alternatives that foreground teachers' existing expertise and future possibilities (Gregersen & Mercer, 2022; Gregersen et al., 2023). This paper describes a reflective practice intervention conducted within a graduate TESOL program in Japan that combined Appreciative Inquiry's “4D cycle” (Cooperrider et al., 2008) with Edge's (2002) continuing cooperative development framework. Four teacher-participants in an MA TESOL program engaged in a series of non-judgmental reflective dialogues focused on personally meaningful areas of their professional practice before producing written narrative reflections on their experiences. Our analysis of these personal reflections suggests that the intervention supported us in reframing our professional beliefs, strengthening teacher agency, clarifying professional identities, and translating reflective insights into concrete pedagogical action. Across our four narratives, we identified psychologically safe dialogue as a key contributor underpinning these developmental processes, enabling us to explore challenges while maintaining a strengths-based focus. Our findings suggest that appreciative inquiry may represent a valuable model for teacher-led CPD by fostering reflective dialogue that simultaneously promotes professional learning and teacher wellbeing. Implications for reflective practice, language teacher education, and strengths-based professional development are discussed. 
+
+View Article (point to accentsasia.org/issues/21-3/Hooper_et_al.pdf)
+
+
+
+Teaching English Articles to Japanese Learners: Insights from Corpus Data and Classroom Applications
+
+Ayako Aizawa, Graduate School, Rikkyo University, Japan
+
+
+ABSTRACT:
+English articles are widely considered one of the most challenging grammatical features for Japanese learners of English, whose first language lacks an article system. This paper draws on corpus data from the Longman Learners’ Corpus (LLC) and British and American English reference corpora to illustrate how definite article usage patterns vary across proficiency levels among first language (L1) Japanese learners. The data reveal an underuse of the definite article at lower proficiency levels, with usage frequency increasing as proficiency develops. Qualitative analysis of concordance lines identifies specific error patterns, including article omission before superlatives and inappropriate use before proper nouns. Based on these findings, this paper proposes practical, corpus-informed classroom activities that teachers in Japan can implement, including step-by-step procedures and freely available tools. Throughout the discussion, the paper adopts a World Englishes perspective, framing corpus-based norms as one reference point among many rather than as a prescriptive standard.
+
+View Article (point to accentsasia.org/issues/21-3/Aizawa.pdf)
+
+
+
+Development and Validation of an Auditory Lexical Size Test for Japanese Learners of English
+
+Paul Nadasdy, Tatsuo Iso, Kazumi Aizawa, Kento Sato, Tokyo Denki University
+
+
+ABSTRACT:
+Although several aural vocabulary size tests have been developed, including those by Fountain and Nation (2000) and Milton and Hopkins (2006), relatively few have been developed and validated with Japanese learners of English in mind. One notable exception is McLean, Kramer, and Beglar’s (2015) Listening Vocabulary Levels Test (LVLT), which was specifically developed to assess Japanese learners’ aural vocabulary knowledge. However, there remains scope for developing tests that combine validated aural assessment formats with lexical content selected specifically for Japanese EFL learners. This study introduces the Auditory Lexical Size Test (ALEXIS), a diagnostic tool designed to measure the aural vocabulary size of Japanese university students. ALEXIS draws on content from Hamada et al.’s Vocabulary Size Test for Japanese EFL learners (VST-NJ8) and adopts key features of McLean, Kramer, and Beglar’s (2015) LVLT. Data from 280 students at a technical college in Japan were collected, and a Rasch analysis focusing on item difficulty and unidimensionality was conducted. Cronbach’s alpha indicated high internal consistency (α = .948). Additionally, ALEXIS scores correlated positively with overall TOEIC scores (r = .54), providing evidence of criterion-related validity. Although some items showed misfit or overfit, potentially related to abstraction, polysemy, and distractor-related confusion, the findings provide preliminary evidence supporting the use of ALEXIS as a measure of aural lexical knowledge. The initial findings suggest that ALEXIS may provide a reliable means of assessing aural vocabulary knowledge and contribute to research on vocabulary assessment for Japanese learners.
+
+View Article (point to accentsasia.org/issues/21-3/Nadasdy_et_al.pdf)
+
+
+
+Graduate Student Explorations of SLA Literature [Special issue]
+
+Chris Carl Hale (Editor), Daniel Podborochynski, Farhana Sarmin, Hisashi Harada, Kayoko Kaiho, Ken Guerrero, Qian Jiayi, Lu Haozhe, Samantha Lucas, Izumi Suganuma, Akita International University
+
+
+ABSTRACT:
+In this Special Issue, graduate students at Akita International University provide thoughtful analysis and a beginner's mind to current published literature in the field of Second Language Acquisition (SLA). 
+
+View Article (point to accentsasia.org/issues/21-3/Hale.pdf)
+
+
